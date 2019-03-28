@@ -1,6 +1,7 @@
 # Privacy Policy for Harmonia
 
-0. Summary  
+0. Summary
+
     1. This application collects personal data from its users.
     2. The personal data is collected for the following purposes and services
 
